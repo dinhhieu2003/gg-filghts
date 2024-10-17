@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 08:00,Sân bay quốc tế Bạch Vân Quảng Châu,CAN,2024-10-05 11:55,175,Boeing 737MAX 8 Passenger,China Southern,https://www.gstatic.com/flights/airline_logos/70px/CZ.png,Economy,CZ 368,"Average legroom (76 cm), In-seat USB outlet, Carbon emissions estimate: 128 kg"
+Sân bay quốc tế Bạch Vân Quảng Châu,CAN,2024-10-05 13:45,Cảng Hàng Không Quốc Tế Cam Ranh,CXR,2024-10-05 15:10,145,Airbus A320,China Southern,https://www.gstatic.com/flights/airline_logos/70px/CZ.png,Economy,CZ 6049,"Average legroom (76 cm), In-seat USB outlet, Carbon emissions estimate: 154 kg"

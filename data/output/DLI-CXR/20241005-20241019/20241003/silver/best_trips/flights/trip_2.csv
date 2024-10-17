@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Cảng Hàng Không Quốc Tế Liên Khương,DLI,2024-10-05 10:45,Sân bay quốc tế Nội Bài,HAN,2024-10-05 12:35,110,Airbus A320,Bamboo Airways,https://www.gstatic.com/flights/airline_logos/70px/QH.png,Economy,QH 1422,"Below average legroom (74 cm), Carbon emissions estimate: 105 kg"
+Sân bay quốc tế Nội Bài,HAN,2024-10-05 14:45,Cảng Hàng Không Quốc Tế Cam Ranh,CXR,2024-10-05 16:30,105,Airbus A321,Vietjet,https://www.gstatic.com/flights/airline_logos/70px/VJ.png,Economy,VJ 1781,"Below average legroom (71 cm), Carbon emissions estimate: 102 kg"

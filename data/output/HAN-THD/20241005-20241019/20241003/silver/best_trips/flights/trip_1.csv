@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Sân bay quốc tế Nội Bài,HAN,2024-10-05 09:05,Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 11:15,130,Airbus A321,Vietjet,https://www.gstatic.com/flights/airline_logos/70px/VJ.png,Economy,VJ 129,"Below average legroom (71 cm), Carbon emissions estimate: 107 kg"
+Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 12:45,Cảng Hàng Không Thọ Xuân (THD),THD,2024-10-05 14:45,120,Airbus A321,Vietjet,https://www.gstatic.com/flights/airline_logos/70px/VJ.png,Economy,VJ 244,"Below average legroom (71 cm), Carbon emissions estimate: 98 kg"

@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Sân bay quốc tế Nội Bài,HAN,2024-10-05 11:00,Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 13:15,135,Boeing 787,Vietnam Airlines,https://www.gstatic.com/flights/airline_logos/70px/VN.png,Economy,VN 211,"Above average legroom (81 cm), In-seat power & USB outlets, On-demand video, Carbon emissions estimate: 111 kg"
+Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 15:10,Cảng Hàng không Côn Đảo,VCS,2024-10-05 16:10,60,ATR 42/72,Vietnam Airlines,https://www.gstatic.com/flights/airline_logos/70px/VN.png,Economy,VN 1885,"Average legroom (76 cm), Carbon emissions estimate: 39 kg"

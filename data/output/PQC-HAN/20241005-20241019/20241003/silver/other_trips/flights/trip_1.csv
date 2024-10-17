@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Cảng Hàng Không Quốc Tế Phú Quốc,PQC,2024-10-05 00:30,Sân bay quốc tế Incheon,ICN,2024-10-05 08:00,330,Airbus A330,Korean Air,https://www.gstatic.com/flights/airline_logos/70px/KE.png,Economy,KE 488,"Average legroom (79 cm), In-seat power & USB outlets, On-demand video, Carbon emissions estimate: 292 kg"
+Sân bay quốc tế Incheon,ICN,2024-10-05 10:05,Sân bay quốc tế Nội Bài,HAN,2024-10-05 12:30,265,Boeing 787,Vietnam Airlines,https://www.gstatic.com/flights/airline_logos/70px/VN.png,Economy,VN 417,"Above average legroom (81 cm), In-seat power & USB outlets, On-demand video, Carbon emissions estimate: 174 kg"

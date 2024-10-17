@@ -1,0 +1,8 @@
+B1: Vào folder đó gõ cmd trên thanh tên để hiển thị terminal
+B2: Ở trong terminal gõ: set AIRFLOW_UID=50000
+B3: docker-compose up airflow-init (đợi hơi lâu nhưng anh bé ráng đợi nó chạy hết nhé, đến khi nó full ống hết rồi và không thấy
+   tải thêm gì thì anh bấm Ctrl C)
+B4: docker-compose up -d
+B5: Vào docker desktop check xem chạy đủ các image và container chưa
+B6: Truy cập localhost:8080
+B7: tk: airflow mk: airflow

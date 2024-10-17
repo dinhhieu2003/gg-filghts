@@ -1,0 +1,3 @@
+da_name,da_id,da_time,aa_name,aa_id,aa_time,duration,airplane,airline,airline_logo,travel_class,flight_number,additional_information
+Ga hàng hoá - cảng hàng không quốc tế Phú Bài,HUI,2024-10-05 21:35,Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-05 23:00,85,Airbus A321,Vietjet,https://www.gstatic.com/flights/airline_logos/70px/VJ.png,Economy,VJ 311,"Below average legroom (71 cm), Carbon emissions estimate: 71 kg"
+Cảng hàng không quốc tế Tân Sơn Nhất,SGN,2024-10-06 07:30,Cảng Hàng Không Quốc Tế Phú Quốc,PQC,2024-10-06 08:30,60,Airbus A320,Vietjet,https://www.gstatic.com/flights/airline_logos/70px/VJ.png,Economy,VJ 323,"Below average legroom (71 cm), Carbon emissions estimate: 49 kg"
